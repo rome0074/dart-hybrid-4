@@ -1,5 +1,5 @@
-import 'package:exercise4/exercise4.dart' as exercise4;
+import 'package:exercise4/exercise4.dart';
 
 void main() {
-  exercise4.getData();
+  getData();
 }
